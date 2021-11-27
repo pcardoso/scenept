@@ -1,2 +1,3 @@
-# scenept
-scene.pt website
+# credits
+
+- Minima template (\_includes, \_layouts, \_sass, assets)
