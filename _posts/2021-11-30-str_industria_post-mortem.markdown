@@ -57,5 +57,5 @@ A implementação de funcionalidades que não estavam planeadas também foram um
 Com esta demo, aprendendemos imenso sobre as dificuldades e problemas no nosso processo de dcesenvolvimento, assim como aprendemos como melhorar no futuro.
 Também houve muito detalhe que foi modelado, mas que não foi devidamente explorado (o telespecador não podia ver os detalhas durante a demo = tempo de desenvolvimento desperdiçado)
 
-![str industria](https://str-postmortem.videmogroup.org/images/wings_003.JPG)
+![str industria](https://str-postmortem.videmogroup.org/images/wings_003.jpg)
 
