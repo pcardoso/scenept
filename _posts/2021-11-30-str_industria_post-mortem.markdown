@@ -10,7 +10,7 @@ categories: post-mortem
 
 ###### Contexto
 
-Post mortem escrito após a inercia demoparty 2003. 
+Post mortem escrito após a inercia demoparty 2003. O texto remonta a 2003, pelo que nesta altura já tem cerca de 18 anos.
 
 
 Abaixo segue uma tradução do artigo original. 
@@ -19,10 +19,12 @@ Abaixo segue uma tradução do artigo original.
 # VI Demogroup - STR Industria Post Mortem
 ###### Autor : Jae686
 
+![str industria](https://str-postmortem.videmogroup.org/images/wings_002.JPG)
+
 STR: Industria foi uma demo cujo o proósito era ser uma introdução do nosso demogroup para a *demoscene* portuguesa.
 A demo é um *fly-by* por um cenário *flat-shaded*
 
-Porque fazer uma demo com um simples *fly-by* ?
+## Porque fazer uma demo com um simples *fly-by* ?
 
 Quando contactei o filami para formarmos um demogroup, eu não fazia idea das competencias dele relativamente a computação gráfica, naquela altura, e nem de quanto tempo seria necessário para implementar uma dada funcionalidade no motor gráfico.
 
@@ -45,13 +47,15 @@ Até foi possivel criar mais 2 cenarios adicionais no pary place (a primeira e s
 
 Fizemos uma boa primeira introdução da demoscene portuguesa, e aperndemos que a tecnologia não é tudo. :)
 
-# O Mau
+## O Mau
 
 *Bugs* inesperados, que podiam comprometer a conclusão da demo, ocorreram no party place. Também houve alguma pressão, devido a constrangimentos de tempo, para fazer as cenas extra a tempo para a submisão da demo para a competição.
 A implementação de funcionalidades que não estavam planeadas também foram um problema. Se tivesem sido planeadas com antencedência, poderiamos ter feito um melhor uso das mesmas.
 
-# Conclusão
+## Conclusão
 
 Com esta demo, aprendendemos imenso sobre as dificuldades e problemas no nosso processo de dcesenvolvimento, assim como aprendemos como melhorar no futuro.
 Também houve muito detalhe que foi modelado, mas que não foi devidamente explorado (o telespecador não podia ver os detalhas durante a demo = tempo de desenvolvimento desperdiçado)
+
+![str industria](https://str-postmortem.videmogroup.org/images/wings_003.JPG)
 
