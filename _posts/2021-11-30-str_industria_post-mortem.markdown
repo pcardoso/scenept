@@ -8,7 +8,13 @@ categories: post-mortem
 ###### Artigo original : https://str-postmortem.videmogroup.org/
 ###### Demo na pouet : https://www.pouet.net/prod.php?which=10428
 
+###### Contexto
+
+Post mortem escrito após a inercia demoparty 2003. 
+
+
 Abaixo segue uma tradução do artigo original. 
+
 
 # VI Demogroup - STR Industria Post Mortem
 ###### Autor : Jae686
@@ -28,6 +34,24 @@ Portanto, a unica forma de ser possivel termos uma demo pronta para a inercia de
 
 Graças a implementação da linguagem de scriping LUA, o processo de construção da demo foi bastante flexível e fez encurtar o tempo de desenvolvimento da demo.
 
-O conceito da demo em sí éra bastrante simples : um *fly-by* sobre um cenário industrial com *flat shading*
+O conceito da demo em sí é bastrante simples : um *fly-by* sobre um cenário industrial com *flat shading*
 A musica foi feita pelo priprio filami.
+
+## O Bom
+
+Mesmo sem experiência e trabalhando via internet (apenas nos encontrando cara a cara na própria demoparty), a equipa foi capaz de começar e acabar um projeto do zero, o que foi possível graças a dedicação do filami ao projeto.
+
+Até foi possivel criar mais 2 cenarios adicionais no pary place (a primeira e segunda cena), e as colocar na demo. A coordenação entre os graficos e a musica (ja feita antes da party), também foi feita no party place.
+
+Fizemos uma boa primeira introdução da demoscene portuguesa, e aperndemos que a tecnologia não é tudo. :)
+
+# O Mau
+
+*Bugs* inesperados, que podiam comprometer a conclusão da demo, ocorreram no party place. Também houve alguma pressão, devido a constrangimentos de tempo, para fazer as cenas extra a tempo para a submisão da demo para a competição.
+A implementação de funcionalidades que não estavam planeadas também foram um problema. Se tivesem sido planeadas com antencedência, poderiamos ter feito um melhor uso das mesmas.
+
+# Conclusão
+
+Com esta demo, aprendendemos imenso sobre as dificuldades e problemas no nosso processo de dcesenvolvimento, assim como aprendemos como melhorar no futuro.
+Também houve muito detalhe que foi modelado, mas que não foi devidamente explorado (o telespecador não podia ver os detalhas durante a demo = tempo de desenvolvimento desperdiçado)
 
