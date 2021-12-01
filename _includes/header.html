@@ -23,7 +23,9 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          {%- if site.forum -%}<a class="page-link" href="{{ site.forum }}" target="_forum_scene_pt">Fórum</a>{%- endif -%}
         </div>
+        
       </nav>
     {%- endif -%}
   </div>
