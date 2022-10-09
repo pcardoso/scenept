@@ -11,10 +11,16 @@
     "founded": "1994",
     "members": []
   },
-   {
+  {
     "name": "Vollumetric Illusions",
     "location": "Braga",
     "founded": "2003",
-    "members": []
+    "members": ["Jae868","Filami"]
+  },
+  {
+    "name": "Glenz",
+    "location": "Castelo da Maia",
+    "founded": "2004",
+    "members": ["EviL"]
   }
 ]
