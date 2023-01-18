@@ -3,13 +3,13 @@
     "name": "Radioactive Design",
     "location": "Aveiro",
     "founded": "1994",
-    "members": []
+    "members": ["Garfield","Bitcoder","Paulo Falcão","Shaka"]
   },
   {
     "name": "DUF",
     "location": "Porto",
     "founded": "1994",
-    "members": []
+    "members": ["Brainpower","Data Disrupter","Noise Bleeder","Cool Man","DJ Mind"]
   },
   {
     "name": "Vollumetric Illusions",
@@ -21,6 +21,132 @@
     "name": "Glenz",
     "location": "Castelo da Maia",
     "founded": "2004",
-    "members": ["EviL"]
+    "members": ["EviL","jeenio","ps"]
+  },
+  {
+    "name": "ScenePT All Stars",
+    "location": "Portugal",
+    "founded": "2008",
+    "members": ["alien","anticore","coxosclassic","EviL","Jae686","jeenio","lordcoxis","ps","xernobyl","zeroshift"]
+  },
+  {
+    "name": "Airbag",
+    "location": "Aveiro",
+    "founded": "2001",
+    "members": ["fozi","KammutierSpule"]
+  },
+  {
+    "name": "The Digital Artists",
+    "location": "Gaia",
+    "founded": "1997",
+    "members": ["Breakneck","Rup","jeenio","Firehawk","Lackluster","ts","Rents","Viinikala"]
+  },
+  {
+    "name": "united virtual artists",
+    "location": "Portugal",
+    "founded": "2002",
+    "members": ["Blasa","crmx","jeenio","Hybrid-2k","rup"]
+  },
+  {
+    "name": "nothing",
+    "location": "Coimbra",
+    "founded": "1997",
+    "members": ["crmx","Misha","nny","Smash","Sunday"]
+  },
+  {
+    "name": "Flat",
+    "location": "",
+    "founded": "2002",
+    "members": [""]
+  },
+  {
+    "name": "True Dimensions",
+    "location": "Aveiro",
+    "founded": "2002",
+    "members": ["Fozi","KammutierSpule"]
+  },
+  {
+    "name": "Garbage",
+    "location": "",
+    "founded": "1997",
+    "members": ["DeadbraiN","eXtaCy","Paulo Falcão"]
+  },
+  {
+    "name": "minimalartifact",
+    "location": "Almada",
+    "founded": "2003",
+    "members": ["ps"]
+  },
+  {
+    "name": "inérciaProductions",
+    "location": "Gaia",
+    "founded": "2003",
+    "members": ["jeenio","ps","rup"]
+  },
+  {
+    "name": "JFK",
+    "location": "Gaia",
+    "founded": "2004",
+    "members": ["jeenio","Fozi","Kazuya"]
+  },
+  {
+    "name": "Enough Records",
+    "location": "Almada",
+    "founded": "2002",
+    "members": ["ps","harvest","Aenedra","No Loli-Gagging"]
+  },
+  {
+    "name": "The Magnificent International Association Of Extremely Retarded Idiots Corp. GmbH ry Interactive Studios",
+    "location": "",
+    "founded": "2005",
+    "members": ["ps","jeenio","rup","gargaj"]
+  },
+  {
+    "name": "Alien Dream",
+    "location": "Peniche",
+    "founded": "2005",
+    "members": ["xernobyl","Kosmik Khaoz"]
+  },
+  {
+    "name": "Atlantic Dreams",
+    "location": "Ponta Delgada",
+    "founded": "1996",
+    "members": ["3D Generator","Aphex Twin","G.u.l.","Red Rose","Serial Link","Supra Com","DeadbraiN","eXtaCy"]
+  },
+  {
+    "name": "Primeira Vez",
+    "location": "Lisboa",
+    "founded": "2006",
+    "members": ["jeenio","Inês","Sofia","ps"]
+  },
+  {
+    "name": "Napalm Core",
+    "location": "Lisboa",
+    "founded": "2007",
+    "members": ["zeroshift","jeenio"]
+  },
+  {
+    "name": "Coprocessor",
+    "location": "Lisboa",
+    "founded": "2017",
+    "members": ["zeroshift","Jae686","ps"]
+  },
+  {
+    "name": "The Hidden Illusion",
+    "location": "",
+    "founded": "1995",
+    "members": ["Captain Hook","Chuck Die Hard","Energy & Sky","Ez Raider","Jaeger","OutFit Joe","Raiz Quadrada","Rattler","Spit On You","Thunder Hawk","Too Low","Traveller","Zoltar"]
+  },
+  {
+    "name": "Magnetic Team",
+    "location": "",
+    "founded": "1993",
+    "members": ["Highlander","MadAxe","Road Runner","The Punisher"]
+  },
+  {
+    "name": "Gaia Space Agency",
+    "location": "Gaia",
+    "founded": "2021",
+    "members": ["anticore","jeenio"]
   }
 ]
