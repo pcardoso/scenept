@@ -15,3 +15,5 @@ Portal dedicado a demoscene portuguesa.
 [Discord](https://discord.gg/tWjywbbj93)
 
 [Associação Inércia](https://inercia.pt)
+
+[Apresentação sobre a Demoscene em PT-pt](https://nczeroshift.github.io/demoscene_presentation/)
